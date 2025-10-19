@@ -26,27 +26,49 @@ _Last updated: October 19, 2025_
 
 This Privacy Policy describes how your information is handled when you use the **Plinkolo iOS App** ("the App").
 
-## Information We Do Not Collect
+## Information We Collect
 
-We do **not collect**, store, or share any personal information or data from users. This includes:
+We, as the app developer, do **not directly collect**, store, or share any personal information or data from users. This includes:
 
 - No name, email address, or contact information
-- No device identifiers
-- No usage data or analytics
-- No location data
-- No cookies or tracking technologies
+- No personally identifiable information
+- No usage analytics from our servers
 
-## No Ads or Third-Party Services
+However, please note:
+- **Third-party ad networks** may collect certain data when you watch rewarded video ads (see Advertising section below)
+- Basic **tournament data** (scores, rankings) may be processed to enable competitive features
 
-The App does **not include advertisements**, and it does **not integrate with third-party services** such as analytics, ad networks, or social media SDKs.
+## Advertising
+
+The App includes **rewarded video advertisements** that you can choose to watch in exchange for in-game rewards. These ads are provided by third-party ad networks.
+
+### Third-Party Ad Networks
+
+When you choose to watch a rewarded video ad, third-party ad networks may collect certain information to serve relevant advertisements. This may include:
+
+- Device information (device type, operating system)
+- Ad interaction data (views, clicks)
+- Approximate location (based on IP address)
+
+We do not control the data collection practices of these third-party ad networks. We recommend reviewing their privacy policies for more information.
+
+## Tournament Features
+
+The App includes **tournament** and competitive features that allow you to compete with other players for rankings and rewards. Tournament participation is optional.
 
 ## Offline Gameplay
 
-The App is fully functional **offline** and does not require an internet connection to play.
+The App is fully functional **offline** for basic gameplay. However, an internet connection is required to participate in tournaments and watch rewarded video ads.
+
+## Age Restrictions
+
+The App is rated **18+** (17+ in some regions) and is intended for adult users only. The App is not directed at children under the age of 18.
 
 ## Children's Privacy
 
-The App is suitable for all ages and complies with the Children's Online Privacy Protection Act (COPPA). Since no personal data is collected, the App does not knowingly collect data from anyone, including children under 13.
+The App is rated **18+** and is **not intended for use by minors** under the age of 18. We do not knowingly collect personal information from children.
+
+Please note that third-party ad networks may collect certain data as described in the Advertising section above. Parents and guardians should be aware that the App contains simulated gambling mechanics and advertisements.
 
 ## Changes to This Policy
 
