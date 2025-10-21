@@ -36,7 +36,6 @@ We, as the app developer, do **not directly collect**, store, or share any perso
 
 However, please note:
 - **Third-party ad networks** may collect certain data when you watch rewarded video ads (see Advertising section below)
-- Basic **tournament data** (scores, rankings) may be processed to enable competitive features
 
 ## Advertising
 
@@ -52,23 +51,19 @@ When you choose to watch a rewarded video ad, third-party ad networks may collec
 
 We do not control the data collection practices of these third-party ad networks. We recommend reviewing their privacy policies for more information.
 
-## Tournament Features
-
-The App includes **tournament** and competitive features that allow you to compete with other players for rankings and rewards. Tournament participation is optional.
-
 ## Offline Gameplay
 
-The App is fully functional **offline** for basic gameplay. However, an internet connection is required to participate in tournaments and watch rewarded video ads.
+The App is fully functional **offline** for basic gameplay. However, an internet connection is required to watch rewarded video ads.
 
 ## Age Restrictions
 
-The App is rated **18+** (17+ in some regions) and is intended for adult users only. The App is not directed at children under the age of 18.
+The App is rated **4+** and is suitable for all ages.
 
 ## Children's Privacy
 
-The App is rated **18+** and is **not intended for use by minors** under the age of 18. We do not knowingly collect personal information from children.
+We do not knowingly collect personal information from children. The App is designed to be safe for all ages, including children.
 
-Please note that third-party ad networks may collect certain data as described in the Advertising section above. Parents and guardians should be aware that the App contains simulated gambling mechanics and advertisements.
+Please note that third-party ad networks may collect certain data as described in the Advertising section above. Parents and guardians should be aware that the App contains advertisements and may want to supervise their children's use of the app, particularly when watching video ads.
 
 ## Changes to This Policy
 
