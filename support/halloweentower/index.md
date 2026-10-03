@@ -35,18 +35,13 @@ A: No. Our games are designed to work offline unless stated otherwise.
 
 ---
 
-### Q: I bought a character or Remove Ads, but it's missing after reinstalling. How do I get it back?
-A: Open the shop and tap **Restore** to restore your purchases for free. Make sure you're signed in with the same Apple ID you used for the purchase.
-
----
-
 ### Q: How do I unlock new characters?
-A: Collect coins while you dig down the tower, then open the shop (basket icon on the main screen). You can also unlock characters with an in-app purchase.
+A: Collect coins while you dig down the tower, then open the character screen (basket icon on the main screen). Every character is unlocked by playing - there are no in-app purchases.
 
 ---
 
-### Q: How do I get rid of ads?
-A: Buy **Remove Ads** in the shop to turn off ads between rounds. Optional rewarded videos (for double coins or a second chance) stay available if you want them.
+### Q: Are there in-app purchases?
+A: No. Halloween Tower Balancer has no in-app purchases; all 12 characters are unlocked by playing. The game shows ads between rounds, and optional rewarded videos give double coins or a second chance.
 
 ---
 

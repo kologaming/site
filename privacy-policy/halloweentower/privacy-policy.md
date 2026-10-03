@@ -37,7 +37,7 @@ We, as the app developer, do **not directly collect**, store, or share any perso
 However, please note:
 - **Third-party ad networks** may collect certain data when ads are shown (see Advertising section below)
 - **Analytics and crash reporting** may be collected anonymously by Google Firebase (see Analytics section below)
-- **Apple services** (iCloud, Game Center, In-App Purchases) are provided by Apple under Apple's own privacy policy
+- **Apple services** (iCloud, Game Center) are provided by Apple under Apple's own privacy policy
 
 ## Advertising
 
@@ -54,8 +54,6 @@ Google AdMob and its partners may collect certain information to serve and measu
 
 If you choose **"Ask App Not to Track"**, ads are still shown but are not personalized using your advertising identifier. You can change this at any time in **Settings → Privacy & Security → Tracking**.
 
-You can remove interstitial ads with the **Remove Ads** in-app purchase.
-
 We do not control the data collection practices of these third parties. Please review the [Google Privacy Policy](https://policies.google.com/privacy) for more information.
 
 ## Analytics
@@ -66,7 +64,6 @@ The App may use **Google Firebase** to collect anonymous usage statistics and cr
 
 - **iCloud:** your game progress (coins, unlocked characters, settings) may be synced between your devices through your own iCloud account. We do not have access to this data.
 - **Game Center:** leaderboards and achievements are handled by Apple Game Center if you are signed in.
-- **In-App Purchases:** all payments are processed by Apple. We never receive your payment details.
 
 ## Offline Gameplay
 
@@ -80,7 +77,7 @@ The App is rated **4+** and is suitable for all ages.
 
 We do not knowingly collect personal information from children. The App is designed to be safe for all ages, including children.
 
-Please note that third-party ad networks may collect certain data as described in the Advertising section above. Parents and guardians should be aware that the App contains advertisements and in-app purchases, and may want to supervise their children's use of the App.
+Please note that third-party ad networks may collect certain data as described in the Advertising section above. Parents and guardians should be aware that the App contains advertisements, and may want to supervise their children's use of the App. The App has no in-app purchases.
 
 ## Changes to This Policy
 
