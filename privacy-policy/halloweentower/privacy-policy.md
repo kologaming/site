@@ -65,6 +65,23 @@ The App may use **Google Firebase** to collect anonymous usage statistics and cr
 - **iCloud:** your game progress (coins, unlocked characters, settings) may be synced between your devices through your own iCloud account. We do not have access to this data.
 - **Game Center:** leaderboards and achievements are handled by Apple Game Center if you are signed in.
 
+## App Store Privacy Details
+
+This summary matches the privacy details ("nutrition label") shown for the App on the App Store. None of this data is linked to your identity.
+
+| Data type | Collected by | Used for | Used for tracking |
+|-----------|--------------|----------|-------------------|
+| Coarse Location (from IP address) | Google AdMob | Third-party advertising | Yes |
+| Device ID (advertising identifier, only if you allow tracking) | Google AdMob | Third-party advertising, analytics | Yes |
+| Product Interaction (e.g. ad views and taps) | Google AdMob, Google Firebase | Analytics, third-party advertising | Yes |
+| Advertising Data | Google AdMob | Third-party advertising | Yes |
+| Crash Data | Google Firebase | Analytics, app functionality | No |
+| Performance Data | Google Firebase | Analytics, app functionality | No |
+
+The App does **not** collect contact information, health or financial information, purchase history, user content, contacts, browsing or search history, or sensitive information.
+
+"Tracking" means linking data from the App with data from other companies' apps or websites for advertising. It only happens if you choose **Allow** in the App Tracking Transparency prompt.
+
 ## Offline Gameplay
 
 The App is fully functional **offline**. An internet connection is required only to show ads, sync with iCloud and use Game Center.
