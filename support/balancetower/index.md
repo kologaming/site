@@ -26,7 +26,7 @@ A: Please email us with:
 ---
 
 ### Q: Do you collect any personal information?
-A: We do not directly collect or store any personal information. However, third-party ad networks may collect certain data (such as advertising identifiers like IDFA) when ads are shown. You can read our [Privacy Policy](https://gms.kolotii.com/privacy-policy/fruittower/privacy-policy) for full details.
+A: We do not directly collect or store any personal information. However, third-party ad networks may collect certain data (such as advertising identifiers like IDFA) when ads are shown. You can read our [Privacy Policy](https://gms.kolotii.com/privacy-policy/balancetower/privacy-policy) for full details.
 
 ---
 
