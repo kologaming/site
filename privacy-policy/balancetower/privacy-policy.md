@@ -77,6 +77,8 @@ This is a summary of the data described above. None of this data is linked to yo
 | Product Interaction (e.g. rounds played, ad views and taps) | Google AdMob, Google Firebase | Analytics, third-party advertising | Yes |
 | Advertising Data | Google AdMob | Third-party advertising | Yes |
 | Purchase History (which in-app items were bought, never payment details) | Google Firebase | Analytics | No |
+| Crash Data | Google AdMob | Analytics, third-party advertising | No |
+| Performance Data (e.g. ad loading times) | Google AdMob | Analytics, third-party advertising | No |
 
 The App does **not** collect contact information, health or financial information, user content, contacts, browsing or search history, or sensitive information.
 
