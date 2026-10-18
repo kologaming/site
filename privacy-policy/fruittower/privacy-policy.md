@@ -36,7 +36,7 @@ We, as the app developer, do **not directly collect**, store, or share any perso
 
 However, please note:
 - **Third-party ad networks** may collect certain data when ads are shown (see Advertising section below)
-- **Analytics and crash reporting** may be collected anonymously by Google Firebase (see Analytics section below)
+- **Analytics** may be collected anonymously by Google Firebase (see Analytics section below)
 - **Apple services** (iCloud, Game Center, in-app purchases) are provided by Apple under Apple's own privacy policy
 
 ## Advertising
@@ -58,7 +58,7 @@ We do not control the data collection practices of these third parties. Please r
 
 ## Analytics
 
-The App may use **Google Firebase** to collect anonymous usage statistics and crash reports (such as app version, device model and in-app events) so we can improve the game. This data is not used to identify you personally.
+The App may use **Google Firebase** to collect anonymous usage statistics (such as app version, device model, in-app events and which items were bought) so we can improve the game. This data is not used to identify you personally.
 
 ## Apple Services
 
@@ -72,14 +72,13 @@ This is a summary of the data described above. None of this data is linked to yo
 
 | Data type | Collected by | Used for | Used for tracking |
 |-----------|--------------|----------|-------------------|
-| Coarse Location (from IP address) | Google AdMob | Third-party advertising | Yes |
-| Device ID (advertising identifier, only if you allow tracking) | Google AdMob | Third-party advertising, analytics | Yes |
-| Product Interaction (e.g. ad views and taps) | Google AdMob, Google Firebase | Analytics, third-party advertising | Yes |
+| Coarse Location (from IP address) | Google AdMob, Google Firebase | Third-party advertising, analytics | Yes |
+| Device ID (advertising identifier only if you allow tracking; otherwise an app-specific ID) | Google AdMob, Google Firebase | Third-party advertising, analytics | Yes |
+| Product Interaction (e.g. rounds played, ad views and taps) | Google AdMob, Google Firebase | Analytics, third-party advertising | Yes |
 | Advertising Data | Google AdMob | Third-party advertising | Yes |
-| Crash Data | Google Firebase | Analytics, app functionality | No |
-| Performance Data | Google Firebase | Analytics, app functionality | No |
+| Purchase History (which in-app items were bought, never payment details) | Google Firebase | Analytics | No |
 
-The App does **not** collect contact information, health or financial information, purchase history, user content, contacts, browsing or search history, or sensitive information.
+The App does **not** collect contact information, health or financial information, user content, contacts, browsing or search history, or sensitive information.
 
 "Tracking" means linking data from the App with data from other companies' apps or websites for advertising. It only happens if you choose **Allow** in the App Tracking Transparency prompt.
 
