@@ -37,7 +37,7 @@ We, as the app developer, do **not directly collect**, store, or share any perso
 However, please note:
 - **Third-party ad networks** may collect certain data when ads are shown (see Advertising section below)
 - **Analytics** may be collected anonymously by Google Firebase (see Analytics section below)
-- **Apple services** (iCloud, Game Center, in-app purchases) are provided by Apple under Apple's own privacy policy
+- **Apple services** (iCloud, Game Center) are provided by Apple under Apple's own privacy policy
 
 ## Advertising
 
@@ -58,13 +58,13 @@ We do not control the data collection practices of these third parties. Please r
 
 ## Analytics
 
-The App may use **Google Firebase** to collect anonymous usage statistics (such as app version, device model, in-app events and which items were bought) so we can improve the game. This data is not used to identify you personally.
+The App may use **Google Firebase** to collect anonymous usage statistics (such as app version, device model, in-app events and which items were restored from earlier purchases) so we can improve the game. This data is not used to identify you personally.
 
 ## Apple Services
 
 - **iCloud:** your game progress (coins, unlocked characters, settings) may be synced between your devices through your own iCloud account. We do not have access to this data.
 - **Game Center:** leaderboards and achievements are handled by Apple Game Center if you are signed in.
-- **In-app purchases:** optional purchases (some characters, Remove Ads) are processed by Apple. We never see your payment details; the App only learns which items you own.
+- **Earlier purchases:** the App has no in-app purchases. Items bought in older versions can be restored through Apple; we never see payment details, the App only learns which items you own.
 
 ## App Store Privacy Details
 
@@ -76,7 +76,7 @@ This is a summary of the data described above. None of this data is linked to yo
 | Device ID (advertising identifier only if you allow tracking; otherwise an app-specific ID) | Google AdMob, Google Firebase | Third-party advertising, analytics | Yes |
 | Product Interaction (e.g. rounds played, ad views and taps) | Google AdMob, Google Firebase | Analytics, third-party advertising | Yes |
 | Advertising Data | Google AdMob | Third-party advertising | Yes |
-| Purchase History (which in-app items were bought, never payment details) | Google Firebase | Analytics | No |
+| Purchase History (items restored from purchases in older versions, never payment details) | Google Firebase | Analytics | No |
 | Crash Data | Google AdMob | Analytics, third-party advertising | No |
 | Performance Data (e.g. ad loading times) | Google AdMob | Analytics, third-party advertising | No |
 
@@ -86,7 +86,7 @@ The App does **not** collect contact information, health or financial informatio
 
 ## Offline Gameplay
 
-The App is fully functional **offline**. An internet connection is required only to show ads, make purchases, sync with iCloud and use Game Center.
+The App is fully functional **offline**. An internet connection is required only to show ads, sync with iCloud and use Game Center.
 
 ## Age Restrictions
 
@@ -96,7 +96,7 @@ The App is rated **4+** and is suitable for all ages.
 
 We do not knowingly collect personal information from children. The App is designed to be safe for all ages, including children.
 
-Please note that third-party ad networks may collect certain data as described in the Advertising section above. Parents and guardians should be aware that the App contains advertisements and optional in-app purchases, and may want to supervise their children's use of the App. Purchases can be restricted in Screen Time settings.
+Please note that third-party ad networks may collect certain data as described in the Advertising section above. Parents and guardians should be aware that the App contains advertisements, and may want to supervise their children's use of the App. The App has no in-app purchases.
 
 ## Changes to This Policy
 

@@ -36,17 +36,17 @@ A: No. Our games are designed to work offline unless stated otherwise.
 ---
 
 ### Q: How do I unlock new characters?
-A: Collect coins while you dig down the tower, then open the character screen (basket icon on the main screen). Characters can be unlocked with coins, and some can also be bought as in-app purchases.
+A: Collect coins while you dig down the tower, then open the character screen (basket icon on the main screen). Every character is unlocked with coins earned by playing, or picked in the Shop for coins.
 
 ---
 
 ### Q: Are there in-app purchases?
-A: Yes, optional ones: some characters, and Remove Ads. Purchases are handled by Apple. The game shows ads between rounds, and optional rewarded videos give double coins or a second chance.
+A: No. Tower Balancer has no in-app purchases. The game shows ads between rounds, and optional rewarded videos give double coins or a second chance.
 
 ---
 
-### Q: I bought something but I don't have it.
-A: Make sure you are signed in with the same Apple Account you used to buy it, then tap Restore Purchases in the game's Settings. If it still doesn't appear, email us and we'll help.
+### Q: I bought a character in an older version. Do I still have it?
+A: Yes. Make sure you are signed in with the same Apple Account you used to buy it, then tap Restore Purchases in the game's Settings. If it still doesn't appear, email us and we'll help.
 
 ---
 
