@@ -65,6 +65,8 @@ We advertise the App on Facebook and Instagram. To learn which ads lead to insta
 - Device information (device model, operating system, app version, language) and your IP address
 - Advertising identifier (IDFA) — **only if you allow tracking** in the App Tracking Transparency prompt
 
+In the European Economic Area, the UK and Switzerland the App first asks for your consent (Google's consent form); Meta receives nothing until you agree. You can change your choice any time in the App's **Settings → 🔒**.
+
 If you choose **"Ask App Not to Track"**, Meta gets no advertising identifier and measures ads only through Apple's privacy-preserving SKAdNetwork and Meta's Aggregated Event Measurement. Please review the [Meta Privacy Policy](https://www.facebook.com/privacy/policy/) for how Meta handles this data.
 
 ## Analytics
