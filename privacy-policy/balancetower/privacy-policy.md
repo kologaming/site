@@ -22,7 +22,7 @@ a {
 
 # Privacy Policy
 
-_Last updated: October 18, 2026_
+_Last updated: November 13, 2026_
 
 This Privacy Policy describes how your information is handled when you use the **Tower Balancer: Fruit & Spooky iOS App** ("the App").
 
@@ -37,6 +37,7 @@ We, as the app developer, do **not directly collect**, store, or share any perso
 However, please note:
 - **Third-party ad networks** may collect certain data when ads are shown (see Advertising section below)
 - **Analytics** may be collected anonymously by Google Firebase (see Analytics section below)
+- **Meta** (Facebook, Instagram) receives app events so we can measure our ads (see Ad Measurement by Meta below)
 - **Apple services** (iCloud, Game Center) are provided by Apple under Apple's own privacy policy
 
 ## Advertising
@@ -56,6 +57,16 @@ If you choose **"Ask App Not to Track"**, ads are still shown but are not person
 
 We do not control the data collection practices of these third parties. Please review the [Google Privacy Policy](https://policies.google.com/privacy) for more information.
 
+## Ad Measurement by Meta
+
+We advertise the App on Facebook and Instagram. To learn which ads lead to installs, the App includes the **Meta SDK**, which sends Meta Platforms:
+
+- App events: the App was installed or opened, a round was finished and how deep it went, an ad was shown and what it earned
+- Device information (device model, operating system, app version, language) and your IP address
+- Advertising identifier (IDFA) — **only if you allow tracking** in the App Tracking Transparency prompt
+
+If you choose **"Ask App Not to Track"**, Meta gets no advertising identifier and measures ads only through Apple's privacy-preserving SKAdNetwork and Meta's Aggregated Event Measurement. Please review the [Meta Privacy Policy](https://www.facebook.com/privacy/policy/) for how Meta handles this data.
+
 ## Analytics
 
 The App may use **Google Firebase** to collect anonymous usage statistics (such as app version, device model, in-app events and which items were restored from earlier purchases) so we can improve the game. This data is not used to identify you personally.
@@ -68,16 +79,16 @@ The App may use **Google Firebase** to collect anonymous usage statistics (such 
 
 ## App Store Privacy Details
 
-This is a summary of the data described above. None of this data is linked to your identity.
+This is a summary of the data described above. We never collect your name or contact details; Meta may link the device identifier and app events to a Meta account it already knows, which App Store Connect counts as "linked to you".
 
 | Data type | Collected by | Used for | Used for tracking |
 |-----------|--------------|----------|-------------------|
-| Coarse Location (from IP address) | Google AdMob, Google Firebase | Third-party advertising, analytics | Yes |
-| Device ID (advertising identifier only if you allow tracking; otherwise an app-specific ID) | Google AdMob, Google Firebase | Third-party advertising, analytics | Yes |
-| Product Interaction (e.g. rounds played, ad views and taps) | Google AdMob, Google Firebase | Analytics, third-party advertising | Yes |
-| Advertising Data | Google AdMob | Third-party advertising | Yes |
+| Coarse Location (from IP address) | Google AdMob, Google Firebase, Meta | Third-party advertising, analytics | Yes |
+| Device ID (advertising identifier only if you allow tracking; otherwise an app-specific ID) | Google AdMob, Google Firebase, Meta | Third-party advertising, analytics | Yes |
+| Product Interaction (e.g. rounds played, ad views and taps) | Google AdMob, Google Firebase, Meta | Analytics, third-party advertising | Yes |
+| Advertising Data | Google AdMob, Meta | Third-party advertising | Yes |
 | Purchase History (items restored from purchases in older versions, never payment details) | Google Firebase | Analytics | No |
-| Crash Data | Google AdMob | Analytics, third-party advertising | No |
+| Crash Data | Google AdMob, Meta | Analytics, third-party advertising | No |
 | Performance Data (e.g. ad loading times) | Google AdMob | Analytics, third-party advertising | No |
 
 The App does **not** collect contact information, health or financial information, user content, contacts, browsing or search history, or sensitive information.
@@ -86,15 +97,15 @@ The App does **not** collect contact information, health or financial informatio
 
 ## Offline Gameplay
 
-The App is fully functional **offline**. An internet connection is required only to show ads, sync with iCloud and use Game Center.
+The App is fully functional **offline**. An internet connection is required only to show ads, measure ads, sync with iCloud and use Game Center.
 
 ## Age Restrictions
 
-The App is rated **4+** and is suitable for all ages.
+The App is rated **4+**. It is a general-audience game and is not directed at children.
 
 ## Children's Privacy
 
-We do not knowingly collect personal information from children. The App is designed to be safe for all ages, including children.
+We do not knowingly collect personal information from children under 13. The App is made for a general audience, not specifically for children.
 
 Please note that third-party ad networks may collect certain data as described in the Advertising section above. Parents and guardians should be aware that the App contains advertisements, and may want to supervise their children's use of the App. The App has no in-app purchases.
 
